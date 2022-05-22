@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Miku_b.json"
+  ],
+  "homeserver_url": "https://matrix.magaya.org"
+}
